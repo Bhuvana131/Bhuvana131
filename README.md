@@ -1,16 +1,36 @@
 ## Hi there 👋
+# I'm Bhuvaneswari 👋
 
-<!--
-**Bhuvana131/Bhuvana131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics and Communication Engineering Student  
+🚀 Aspiring DevOps Engineer  
+🐍 Python Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Linux
+- Git & GitHub
+- Docker
+- Jenkins
+- AWS
+- Kubernetes
+- Shell Scripting
+
+---
+
+## 💻 Skills
+Python | Linux | Git | Docker | AWS | Jenkins | CI/CD
+
+---
+
+## 📌 Goals
+- Build real-world DevOps projects
+- Share my learning journey
+- Become a DevOps Engineer
+
+---
+
+## 🔗 Connect with Me
+- LinkedIn:https://www.linkedin.com/in/bhuvaneswari-thirunamalli-45569a2b0/
+- GitHub:https://github.com/Bhuvana131/
+- 
